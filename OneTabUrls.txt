@@ -1,0 +1,83 @@
+https://numer.ai/leaderboard | Numerai
+
+https://developer.android.com/studio/build/index.html | Configure Your Build | Android Studio
+https://google.github.io/styleguide/javaguide.html | Google Java Style Guide
+https://github.com/prathamesh1729/carnot-guidelines/wiki | Home · prathamesh1729/carnot-guidelines Wiki
+https://www.google.co.in/search?client=opera&q=Google+andriod+style+guide&sourceid=opera&ie=UTF-8&oe=UTF-8 | Google andriod style guide - Google Search
+https://google.github.io/styleguide/javaguide.html | Google Java Style Guide
+https://source.android.com/setup/code-style | AOSP Java Code Style for Contributors  |  Android Open Source Project
+https://github.com/prathamesh1729/carnot-android/tree/v2.2.3 | prathamesh1729/carnot-android at v2.2.3
+https://alvinalexander.com/java/edu/pj/pj010014 | How to put comments in your code with Javadoc | alvinalexander.com
+
+https://source.android.com/setup/code-style#java-language-rules | AOSP Java Code Style for Contributors  |  Android Open Source Project
+https://github.com/prathamesh1729/carnot-guidelines/wiki/C-Coding-Standards | C Coding Standards · prathamesh1729/carnot-guidelines Wiki
+https://www.facebook.com/MontrealAI/videos/545317309146865/?hc_ref=ARRfYOS1Ozavk92xBpv-UXdqgQpTdOOxUswpkx1Py5aXh7Q8NECRlBsZOHcZ7hQqh6s | Montreal.AI - Reconstructing Visual Experiences from Brain...
+http://www.cell.com/current-biology/fulltext/S0960-9822(11)00937-7 | Reconstructing Visual Experiences from Brain Activity Evoked by Natural Movies: Current Biology
+https://uploadvr.com/magic-leap-finally-reveals-ar-headset-magic-leap-one/ | Magic Leap Finally Reveals Its AR Headset, Magic Leap One
+https://www.magicleap.com/?utm_source=reveal&utm_medium=TW&utm_campaign=WTDO | Welcome | Magic Leap
+https://www.youtube.com/watch?v=uYwH4TSdVYs&feature=youtu.be | (1103) Yann LeCun, "How Could Machines Learn as Efficiently as Animals and Humans?" - YouTube
+https://medium.com/@fuller.evan/quantile-reinforcement-learning-56f8b3c3f134 | Quantile Reinforcement Learning – Evan Fuller – Medium
+https://arxiv.org/abs/1710.10044 | [1710.10044] Distributional Reinforcement Learning with Quantile Regression
+https://njit.webex.com/mw3200/mywebex/nbrshared.do | Playback Recording
+https://arxiv.org/abs/1711.11503 | [1711.11503] Convolutional Networks with Adaptive Computation Graphs
+https://www.oreilly.com/ideas/distributed-tensorflow | Distributed TensorFlow - O'Reilly Media
+https://github.com/thesemicolonguy/convisualize_nb | thesemicolonguy/convisualize_nb: Visualisations for Convolutional Neural Networks in Pytorch
+https://analyticsbuddhu.wordpress.com/2017/12/19/statistical-cluster-analysis-explained-in-detail-part-1/ | Beginners guide to Statistical Cluster Analysis in detail part-1 – Analytics Buddhu
+https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html?m=1 | Research Blog: Tacotron 2: Generating Human-like Speech from Text
+
+https://cookiecutter.readthedocs.io/en/latest/usage.html | Usage — cookiecutter 1.6.0 documentation
+http://drivendata.github.io/cookiecutter-data-science/#example | Cookiecutter Data Science
+https://docs.google.com/spreadsheets/d/1jXW_QEYL4E_lpBV28dlecwxc7GZNS_mmKd2CdBj1RNo/edit#gid=0 | My Workload - Google Sheets
+https://mail.google.com/mail/u/1/#inbox | Inbox (5) - manav.bharambe@carnot.co.in - Carnot Mail
+https://www.virtualbox.org/wiki/Downloads | Downloads – Oracle VM VirtualBox
+chrome://startpage/downloads | Downloads
+https://github.com/
+
+https://github.com/prathamesh1729/demo-tractor-app | prathamesh1729/demo-tractor-app
+https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4/t/lecture/5856256?start=15 | Spark and Python for Big Data with PySpark | Udemy
+chrome://startpage/ | Speed Dial
+
+https://ai-on.org/2017/11/20/few-shot-distribution-learning/ | Few Shot Distribution Learning
+https://github.com/AI-ON/Few-Shot-Music-Generation | AI-ON/Few-Shot-Music-Generation
+https://github.com/AI-ON/Few-Shot-Music-Generation/blob/master/READING_LIST.md | Few-Shot-Music-Generation/READING_LIST.md at master · AI-ON/Few-Shot-Music-Generation
+https://mail.google.com/mail/u/1/#inbox | Inbox (5) - manav.bharambe@carnot.co.in - Carnot Mail
+https://ai-on.org/pdf/larochelle-few-shot-distribution-learning.pdf | larochelle-few-shot-distribution-learning.pdf
+
+https://aion.network/ | Aion
+https://www.google.co.in/search?client=opera&hs=hxZ&ei=ccM4Wo76AaOevQSk3qfQBQ&q=AiOn+Music+projects&oq=AiOn+Music+projects&gs_l=psy-ab.3...98953.100049.0.100304.6.6.0.0.0.0.128.496.0j4.4.0....0...1c.1.64.psy-ab..2.0.0....0.grR5hbceqo0 | AiOn Music projects - Google Search
+
+https://mail.google.com/mail/u/0/#search/Didi | Gmail
+https://numer.ai/leaderboard#new | Numerai
+https://ditech.didichuxing.com/en/ | Di-tech competitions
+https://ditech.didichuxing.com/en/ | Di-tech competitions
+https://ditech.didichuxing.com/en-tech/Resource?code=di_tech_000000003 | Di-tech competitions
+https://ditech.didichuxing.com/en/rule-competition.html?code=di_tech_000000003 | Timeline
+https://ditech.didichuxing.com/en-tech/MyTeam?code=di_tech_000000003 | Di-tech competitions
+chrome://startpage/ | Speed Dial
+
+https://sync.opera.com/web/ | Welcome to Opera synchronization
+http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf | transauto6.pdf
+https://nurture.ai/nips-challenge | Nurture.ai - Global NIPS Paper Implementation Challenge
+
+https://arxiv.org/abs/1703.00862 | [1703.00862] Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources
+https://arxiv.org/abs/1602.02830 | [1602.02830] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
+https://github.com/facebookresearch/Starspace/blob/master/README.md | StarSpace/README.md at master · facebookresearch/StarSpace
+https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/ | Dimensionality Reduction Using t-SNE | Displayr
+https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html | 10 Free Must-Read Books for Machine Learning and Data Science
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/ | Bayesian Methods for Hackers
+https://arxiv.org/pdf/1709.04481v1.pdf | 1709.04481v1.pdf
+https://arxiv.org/pdf/1709.04553v1.pdf | https://arxiv.org/pdf/1709.04553v1.pdf
+https://arxiv.org/pdf/1709.04570v1.pdf | 1709.04570v1.pdf
+https://arxiv.org/pdf/1708.03625.pdf | https://arxiv.org/pdf/1708.03625.pdf
+https://arxiv.org/pdf/1710.05468v1.pdf | 1710.05468v1.pdf
+https://arxiv.org/abs/1711.03543 | [1711.03543] DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers
+https://arxiv.org/pdf/1709.01574.pdf | 1709.01574.pdf
+https://mega.nz/#F!A3ICjCbJ!IgJorElHhlOZAnutyPhhDg!M2IVwIbS | MEGA
+https://arxiv.org/abs/1711.04340 | [1711.04340] Data Augmentation Generative Adversarial Networks
+https://medium.freecodecamp.org/want-to-know-how-deep-learning-works-heres-a-quick-guide-for-everyone-1aedeca88076 | Want to know how Deep Learning works? Here’s a quick guide for everyone.
+http://www.cds.caltech.edu/~marsden/volume/Calculus/ | Calculus
+http://futureofwork.mit.edu/videos | AI and the Future of Work Videos | AI and the Future of Work
+https://learn-anything.xyz/machine-learning | machine learning - Learn Anything
+https://blog.openai.com/learning-to-model-other-minds/ | Learning to Model Other Minds
+https://www.csie.ntu.edu.tw/~yvchen/f105-adl/syllabus.html | CS5431 - Applied Deep Learning, National Taiwan University
+http://www.inference.vc/design-patterns/ | A Cookbook for Machine Learning: Vol 1
