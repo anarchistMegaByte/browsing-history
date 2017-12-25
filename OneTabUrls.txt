@@ -1,4 +1,36 @@
+https://www.google.co.in/search?client=opera&biw=1240&bih=732&ei=GkI_Wp6DLsXtvgTk5rCwCQ&q=Numerai+solutions&oq=Numerai+solutions&gs_l=psy-ab.3..33i160k1l2.14848.19214.0.19358.18.17.0.0.0.0.299.1829.0j2j6.9.0....0...1c.1.64.psy-ab..9.9.2069.6..0j35i39k1j0i67k1j0i20i263k1j0i131k1j0i10k1j0i22i10i30k1.241.__dZxz2WioA | Numerai solutions - Google Search
+https://mlhype.com/category/competitions-machine-learning-kaggle-numerai-quantopian/ | Solutions for machine learning competitions online, Kaggle, Numerai, Quantopian.
+https://www.google.co.in/search?client=opera&q=numerai+code&sa=X&ved=0ahUKEwiP9439-6HYAhUJMo8KHXVuBkoQ1QIIeigA&biw=1240&bih=732 | numerai code - Google Search
+https://medium.com/jim-fleming/notes-on-the-numerai-ml-competition-14e3d42c19f3 | Notes on the Numerai ML Competition – Jim Fleming – Medium
+https://github.com/anarchistMegaByte/carnot_ds/issues/new | New Issue · anarchistMegaByte/carnot_ds
+https://stackoverflow.com/questions/16981921/relative-imports-in-python-3 | Relative imports in Python 3 - Stack Overflow
+https://www.google.co.in/search?client=opera&q=Plotting+decision+boundary+of+SVM+in+python&sourceid=opera&ie=UTF-8&oe=UTF-8 | Plotting decision boundary of SVM in python - Google Search
+https://www.packtpub.com/hardware-and-creative/ros-robotics-projects | ROS Robotics Projects - PDF eBook | Now just $5
+http://b-ok.org/s/?q=Lentin+Joseph&yearFrom=&yearTo=&language=&extension=&t=0 | Lentin Joseph: free download. Ebooks library. On-line books store on Z-Library
+http://singlelogin.org/ | Z-Library single sign on
+
+https://app.asana.com/0/inbox/163192461109232 | carnot.co.in Inbox - Asana
+https://www.facebook.com/ | (10) Facebook
+https://github.com/facebookresearch/MUSE | facebookresearch/MUSE: A library for Multilingual Unsupervised or Supervised word Embeddings
+https://poo.ai/ | 100+ examples of AI in action
+https://medium.com/intuitionmachine/revisiting-deep-learning-as-a-non-equilibrium-process-9cedb93a13a2 | Revisiting Deep Learning as a Non-Equilibrium Process
+https://medium.com/conquering-corporate-america/how-to-be-seen-as-an-expert-in-artificial-intelligence-77951dd94a09 | How to Be Seen as an Expert in Artificial Intelligence
+https://www.youtube.com/results?search_query=MLSS+2017 | (25) MLSS 2017 - YouTube
+http://mlss.cc/ | Machine Learning Summer Schools - MLSS
+http://www.cs.cornell.edu/courses/cs6780/2010fa/lectures.html | CS 6780: Advanced Machine Learning (Lectures)
+https://www.youtube.com/results?search_query=Advanced+Machine+Learning+Cornell | (26) Advanced Machine Learning Cornell - YouTube
+https://www.youtube.com/watch?v=DvicSVRhVxQ&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP | (26) Dynamic Optimization Modeling in CasADi - YouTube
+https://mail.google.com/mail/u/0/#inbox | Inbox (2,772) - manavbharambe93@gmail.com - Gmail
+
+https://www.google.co.in/search?dcr=0&source=hp&ei=bbI8WvSnH8HMvgSwjZWwCw&q=Running+PSQL+locally+Network&oq=Running+PSQL+locally+Network&gs_l=psy-ab.3..33i22i29i30k1l2.49345.59542.0.59678.30.27.0.0.0.0.278.2920.0j8j6.15.0....0...1c.1.64.psy-ab..15.15.3104.6..0j35i39k1j0i67k1j0i131k1j0i22i30k1j0i13k1.186.0cj4NLdyeGE | Running PSQL locally Network - Google Search
+https://www.postgresql.org/docs/9.1/static/server-start.html | PostgreSQL: Documentation: 9.1: Starting the Database Server
+https://serverfault.com/questions/790412/accessing-to-a-remote-postgresql-server-using-port-forwarding-to-another-machine | networking - Accessing to a remote PostgreSQL server using port forwarding to another machine - Server Fault
+http://www.thegeekstuff.com/2014/02/enable-remote-postgresql-connection/?utm_source=tuicool | How to Allow Remote Connection to PostgreSQL Database using psql
+
 https://numer.ai/leaderboard | Numerai
+https://github.com/anarchistMegaByte/numerai | anarchistMegaByte/numerai: Playing with data is fun.
+https://medium.com/numerai/numerais-master-plan-1a00f133dba9 | Numerai’s Master Plan – Numerai – Medium
+https://mail.google.com/mail/u/0/ | Speed Dial
 
 https://developer.android.com/studio/build/index.html | Configure Your Build | Android Studio
 https://google.github.io/styleguide/javaguide.html | Google Java Style Guide
